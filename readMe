@@ -1,0 +1,9 @@
+Frond end
+package: npx create-react-app ./client
+how to run: npm start
+
+Backend 
+package: npm install 
+how to run: nodemon server.js
+
+

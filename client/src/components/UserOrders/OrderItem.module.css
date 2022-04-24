@@ -1,0 +1,7 @@
+.OrderItem {
+  justify-content: center;
+  width: 90%;
+  max-width: 50rem;
+  margin: 1rem auto;
+  text-align: left;
+}

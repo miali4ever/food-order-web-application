@@ -1,0 +1,26 @@
+.DeliveryRow {
+  display: table;
+  width: 100%;
+  table-layout: fixed;
+  border-spacing: 5px;
+}
+
+.DeliveryCol {
+  display: table-cell;
+}
+
+.DeliveryColWord {
+  display: table-cell;
+  font-weight: bold;
+}
+
+.DeliveryColButton {
+  display: table-cell;
+  text-align: center;
+  width: 25%;
+  background-color: #b94517;
+  padding: 0.25rem 1rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+  font-weight: bold;
+}

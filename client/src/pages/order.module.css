@@ -1,0 +1,7 @@
+.OrderList {
+  justify-content: center;
+  width: 80%;
+  max-width: 50rem;
+  margin: 10rem auto;
+  text-align: left;
+}
